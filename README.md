@@ -7,4 +7,6 @@
 
 ## Live
 
-[Show page](https://aygulysn.github.io/Animate-Css/)
+[Show page](https://yasin-aygl.github.io/Animate-Css/#page-2)
+
+
